@@ -1,16 +1,25 @@
-### Hi there 👋
+&nbsp;
 
-<!--
-**brunaK19/brunaK19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### - 💻 Desenvolvedora Front end
+#### - ✅ Técnica em Desenvolvimento de Sistemas
+#### - 🎒 Cursando Tecnologo em Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Ferramentas de trabalho:
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=white&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Selenium](https://img.shields.io/badge/-selenium-0D1117?style=for-the-badge&logo=selenium&logoColor=%43B02A&labelColXor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
+![Xampp](https://img.shields.io/badge/Xampp-0D1117?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+## Contato:
+
+<div> 
+<a href="www.linkedin.com/in/bruna-karen-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
