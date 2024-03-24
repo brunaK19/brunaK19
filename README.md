@@ -35,7 +35,7 @@
 - Figma
 - Canva
 - UI/ UX
-- 
+  
 &nbsp;
 
 
